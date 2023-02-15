@@ -1,3 +1,4 @@
+
 ﻿using System;
 namespace Logger
 {
@@ -7,4 +8,3 @@ namespace Logger
         public string Name { get; }
     }
 }
-
